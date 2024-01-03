@@ -1,0 +1,8 @@
+whisper==1.1.10
+openai==1.6.1
+gTTS==2.5.0
+transformers==4.36.2
+torch==2.1.2
+sentencepiece==0.1.99
+datasets[audio]
+protobuf

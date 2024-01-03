@@ -7,3 +7,9 @@
 ## Tutorial
 
 https://huggingface.co/microsoft/speecht5_tts
+
+
+## 先行事例
+
+LISTEN
+- https://listen.style/p/listennews/dkcjirkq

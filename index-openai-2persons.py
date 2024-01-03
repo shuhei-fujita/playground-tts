@@ -18,7 +18,7 @@ def process_speech(client, text, voice):
     response.stream_to_file(temp_path)
     return AudioSegment.from_mp3(temp_path)
 
-# 環境変数のロード
+# 環境変数のロード]
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=openai_api_key)
